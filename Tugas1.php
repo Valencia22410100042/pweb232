@@ -7,6 +7,7 @@
 table, th, td {
   border: 1px solid blue;
   padding: 15px;
+}
 td {
     text-align: center
 }  
